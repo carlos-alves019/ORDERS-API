@@ -1,4 +1,3 @@
-# ORDERS-API
 # FastAPI é uma framework
 pip install fastapi uvicorn sqlalchemy passlib[crypt] python-jose[cryptography] python-dotenv python-multipart
 # uvicorn - gestor de servidor 
