@@ -11,3 +11,12 @@ uvicorn main:app --reload
 
 # Criar as nossas rotas
 http://127.0.0.1:8000/orders/
+
+# Entensões
+- python
+- material icon theme
+- sqlite viewer
+
+# Instalação do módulo de migração das classes para a base de dados
+pip install alembic
+alembic init alembic
